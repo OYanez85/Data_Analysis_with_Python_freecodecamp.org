@@ -7,3 +7,5 @@ more course files from here: https://github.com/rmotr-curriculum/ds-content-inte
 Numpy: https://github.com/rmotr-curriculum/freecodecamp-intro-to-numpy/blob/master/3.%20NumPy%20exercises.ipynb
 
 Pandas: https://github.com/rmotr-curriculum/freecodecamp-intro-to-pandas/blob/master/1%20-%20Pandas%20-%20Series.ipynb
+
+Data cleaning: https://github.com/rmotr-curriculum/data-cleaning-rmotr-freecodecamp
