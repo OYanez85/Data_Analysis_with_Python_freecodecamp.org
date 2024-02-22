@@ -11,3 +11,5 @@ Pandas: https://github.com/rmotr-curriculum/freecodecamp-intro-to-pandas/blob/ma
 Data cleaning: https://github.com/rmotr-curriculum/data-cleaning-rmotr-freecodecamp
 
 Reading data: https://github.com/rmotr-curriculum/RDP-Reading-Data-with-Python-and-Pandas
+
+read .csv : https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
