@@ -9,3 +9,5 @@ Numpy: https://github.com/rmotr-curriculum/freecodecamp-intro-to-numpy/blob/mast
 Pandas: https://github.com/rmotr-curriculum/freecodecamp-intro-to-pandas/blob/master/1%20-%20Pandas%20-%20Series.ipynb
 
 Data cleaning: https://github.com/rmotr-curriculum/data-cleaning-rmotr-freecodecamp
+
+Reading data: https://github.com/rmotr-curriculum/RDP-Reading-Data-with-Python-and-Pandas
