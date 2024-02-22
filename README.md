@@ -1,4 +1,4 @@
-GitHUb of the course: https://github.com/rmotr-curriculum
+GitHub of the course: https://github.com/rmotr-curriculum
 
 files for course: https://github.com/rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example/blob/master/data/chinook.db
 
